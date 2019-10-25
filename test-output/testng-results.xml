@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="31816" started-at="2019-10-25T10:12:20Z" finished-at="2019-10-25T10:12:52Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="31816" started-at="2019-10-25T10:12:20Z" finished-at="2019-10-25T10:12:52Z">
+      <class name="testcasees.LoginTest">
+        <test-method status="PASS" signature="setUP()[pri:0, instance:testcasees.LoginTest@53b32d7]" name="setUP" is-config="true" duration-ms="13708" started-at="2019-10-25T10:12:20Z" finished-at="2019-10-25T10:12:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUP -->
+        <test-method status="PASS" signature="getTitle()[pri:1, instance:testcasees.LoginTest@53b32d7]" name="getTitle" duration-ms="3024" started-at="2019-10-25T10:12:34Z" finished-at="2019-10-25T10:12:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getTitle -->
+        <test-method status="PASS" signature="setUP()[pri:0, instance:testcasees.LoginTest@53b32d7]" name="setUP" is-config="true" duration-ms="13614" started-at="2019-10-25T10:12:37Z" finished-at="2019-10-25T10:12:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUP -->
+        <test-method status="PASS" signature="LoginintoNaukari()[pri:2, instance:testcasees.LoginTest@53b32d7]" name="LoginintoNaukari" duration-ms="1415" started-at="2019-10-25T10:12:50Z" finished-at="2019-10-25T10:12:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginintoNaukari -->
+      </class> <!-- testcasees.LoginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
